@@ -1,5 +1,5 @@
 # Minishell
-####  As beautiful as a shell
+> As beautiful as a shell
 
 A 42 project (with [Acuna @ojospeh](https://github.com/acunathink)), where we implemented a simple POSIX Shell in C. The program parses a prompt, launches with arguments and executables, and also works with built-in functions which were written by our team.  
 
