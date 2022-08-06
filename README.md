@@ -15,8 +15,7 @@ Compatible with Linux and MacOS, the program requires an installed **readline** 
 
 ## How it works
 
-![image](https://user-images.githubusercontent.com/22121138/183248197-91a9dddc-0545-4e39-b854-24ef7b5af27a.png)
-
+![image](https://user-images.githubusercontent.com/22121138/183248245-4875f19b-361c-4960-8968-9f621fef1f4a.png)
 
 ## Final grade: 100/115
 
